@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+logzero
+transformers
+gevent
+flask
+accelerate
+SuffixAutomaton
+pysbd
+jupyter
+jupyterlab
+
+
